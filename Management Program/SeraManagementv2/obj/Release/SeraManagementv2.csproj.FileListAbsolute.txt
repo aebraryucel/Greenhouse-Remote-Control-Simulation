@@ -1,0 +1,9 @@
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\bin\Release\SeraManagementv2.exe.config
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\bin\Release\SeraManagementv2.exe
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\bin\Release\SeraManagementv2.pdb
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\obj\Release\SeraManagementv2.Form1.resources
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\obj\Release\SeraManagementv2.Properties.Resources.resources
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\obj\Release\SeraManagementv2.csproj.GenerateResource.cache
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\obj\Release\SeraManagementv2.csproj.CoreCompileInputs.cache
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\obj\Release\SeraManagementv2.exe
+C:\Users\maver\source\repos\SeraManagementv2\SeraManagementv2\obj\Release\SeraManagementv2.pdb
